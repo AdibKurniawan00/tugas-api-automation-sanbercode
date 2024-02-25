@@ -1,0 +1,22 @@
+{
+  "name": "sanber-api-automation",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "tugas api automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "adib",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.0",
+    "jsonschema": "^1.4.1",
+    "mocha": "^10.3.0",
+    "mochawesome": "^7.1.3",
+    "supertest": "^6.3.4"
+  }
+}
